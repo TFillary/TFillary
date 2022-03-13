@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TFillary
-- 👀 I’m interested in Raspberry Pi
+- 👀 I’m interested in Raspberry Pi and RP2040
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: trevor.fillary@gmail.com
 
